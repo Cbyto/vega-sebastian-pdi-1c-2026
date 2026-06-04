@@ -1,0 +1,49 @@
+punto 7
+Descarte: 007
+
+¿Por qué la elegida funciona mejor? 
+Porque en la foto del gato, la luz es la protagonista absoluta: modela el volumen del rostro, recorta las orejas a contraluz y construye una atmósfera íntima y cálida.
+
+¿Qué problema tenía la descartada? 
+El problema principal (El Contraluz fallido): Esta foto está sacada a contraluz (la luz fuerte entra por la ventana a la derecha y pega en el respaldo 
+de la cama y en la parte de atrás del gato). El problema es que el sujeto principal (la cara del gato) quedó completamente en sombra profunda y bexpuesta.
+Contraste mal manejado: El contraste entre el respaldo brillante (que no es lo importante) y la cara oscura (que sí lo es) distrae muchísimo.
+
+Cómo redactarlo en tu PDF (Punto 8)
+Imagen Elegida (Punto 7): El primer plano del gato en la mesa con luz cálida.
+
+Miniatura Descartada: El gato en la cama a contraluz (007.jpg).
+
+Explicación del criterio:
+
+¿Por qué la elegida funciona mejor? Porque la luz se usa de forma envolvente y suave, revelando los detalles del sujeto principal (el rostro) y creando una atmósfera cálida sin perder información en las sombras.
+
+¿Qué problema tenía la descartada (007.jpg)? Fue un intento de contraluz fallido. La fuente de luz intensa detrás del sujeto dejó su rostro (el punto de interés principal) completamente subexpuesto y sin detalle. La luz en esta foto esconde información crucial y genera un contraste que distrae la atención hacia el respaldo de la cama en lugar de hacia el sujeto.
+
+
+Descarte 005:
+Imposibilidad del Reencuadre (The core issue): El Punto 5 pide "demostrar que cambiar el encuadre modifica el significado". Para reinterpretar algo, primero tiene que ser reconocible. Si haces un recorte agresivo de esta foto para enfocarte en los chicos jugando (como sugeriste), el resultado no va a ser una nueva historia, va a ser un mosaico ilegible de píxeles borrosos. La falta de definición mata cualquier intento de narrativa
+
+Cómo redactarlo en tu PDF (Punto 8)
+Imagen Elegida (Punto 5): La foto nocturna de la ciudad (image_2.png).
+
+Miniatura Descartada: La foto borrosa de la cancha (image_15.png).
+
+Explicación del criterio (Respuestas a las preguntas guía):
+
+¿Por qué la elegida funciona mejor? Porque la imagen nocturna posee una definición nítida y un alto contraste que permiten aislar sujetos específicos (como los ciclistas o el edificio) mediante recortes, manteniendo la legibilidad visual y permitiendo una reinterpretación clara de la escena.
+
+¿Qué problema tenía la descartada (image_15.png)? Fracasó técnicamente en la captura. La imagen original carece de foco y presenta severa trepidación, lo que resulta en sujetos totalmente borrosos e irreconocibles. Conceptualmentemente, los recortes sugeridos (chicos jugando vs. espectadores) eran interesantes, pero la falta de información visual impidió su uso. Al aplicar un recorte, la borrosidad se agrava, imposibilitando la construcción de un nuevo significado visual claro o estéticamente aceptable. Por el contrario, la imagen nocturna elegida poseía la resolución necesaria para reinterpretar la escena de manera efectiva.
+
+
+Descarte 004:
+Explicación del criterio (Respuestas a las preguntas guía):
+
+¿Por qué la elegida funciona mejor? Porque el primer plano cerrado elimina todo el contexto y clava la mirada del sujeto, logrando un impacto visual unívoco e inmediato, maximizando la simplicidad y la separación sujeto/fondo.
+
+Excesivo "Ruido Visual": El objetivo del Punto 4 es una imagen simple con un sujeto claro. En esta foto, el gatito es un elemento pequeño y perdido en un encuadre lleno de distracciones. El fondo tiene de todo: patas de sillas y mesas de madera, una cortina blanca con pliegues verticales, plantas verdes, y sobre todo, una decoración colgante de colores vibrantes y texturas complejas (macramé) que compite ferozmente por la atención visual con el gatito.
+
+Falta de Separación: El sujeto no está "despegado" del fondo. No hay uso de la profundidad de campo para desenfocar las distracciones, y el gato está en el mismo plano focal que todo el desorden del living.
+
+¿Qué problema tenía la descartada (.jpg)? Fue descartada por poseer un excesivo ruido visual en el fondo. El sujeto principal (el gato) se encuentra demasiado lejos y se pierde en una composición desordenada con múltiples elementos distractores (sillas, plantas, y una decoración colgante colorida) que rompen por completo la consigna de simplicity y claridad visual. La elegida, en cambio, aísla al sujeto con éxito.
+
