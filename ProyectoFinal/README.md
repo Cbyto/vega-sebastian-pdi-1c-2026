@@ -1,7 +1,7 @@
 # 🤸 PoseVision — Detección de Pose y Manos con MediaPipe
 
-> Trabajo Práctico Final · Materia: Visión por Computadora / Inteligencia Artificial  
-> Deploy en producción: [Hugging Face Spaces](https://huggingface.co/spaces) · Interfaz: Gradio
+> Trabajo Práctico Final · Materia: Procesamiento Digital de Imágenes  
+> Deploy en producción: [Hugging Face Spaces](https://cbyto-pdi-posevision.hf.space/) · Interfaz: Gradio
 
 ---
 
@@ -112,6 +112,7 @@ No requiere instalación. Se puede usar directamente desde el navegador.
 posevision/
 │
 ├── app.py                  # Aplicación principal (Gradio + lógica de cada modo)
+├── download_modesl.py      # Opcional para la descarga de los modelos previamente (la función _ensure_models() lo hace al arrancar)
 ├── requirements.txt        # Dependencias Python
 ├── Dockerfile              # Imagen Docker para contenerización
 ├── .dockerignore           # Archivos excluidos de la imagen Docker
@@ -119,7 +120,6 @@ posevision/
 ├── README.md
 │
 └── utils/
-    ├── __init__.py
     ├── pose_utils.py       # Dibujo de pose, cálculo de ángulos, modo arte
     └── hand_utils.py       # Detección de manos, conteo de dedos
 ```
